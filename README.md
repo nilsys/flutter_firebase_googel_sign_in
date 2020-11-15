@@ -1,8 +1,8 @@
 # Screenshots
 
-<img src="/screenshots/sign.png" width="400" height="200" />  
+<img src="/screenshots/sign.png" width="600" height="700" />  
 
-<img src="/screenshots/home.png" width="400" height="200" />  
+<img src="/screenshots/home.png" width="600" height="700" />  
 
 # Flutter Firebase Googel Sign In
 
