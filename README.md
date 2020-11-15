@@ -1,3 +1,10 @@
+# Screenshots
+
+![Sign in/ Sign up using google and firebase ](/screenshots/sign.png)  
+
+![home page ](/screenshots/home.png)  
+
+
 # Flutter Firebase Googel Sign In
 
 A Flutter sample that shows how we can use:

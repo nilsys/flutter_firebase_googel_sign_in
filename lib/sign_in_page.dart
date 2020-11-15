@@ -184,7 +184,7 @@ class _Subtitle extends StatelessWidget {
                     right: 4.0,
                   ),
             child: Text(
-              'To continue to demo, you must login',
+              'Please to continue using demo set up your account.',
               style: TextStyle(
                 fontSize: 16.0,
               ),
@@ -221,7 +221,7 @@ class _Title extends StatelessWidget {
                     right: 4.0,
                   ),
             child: Text(
-              'demo',
+              'Sign up / Sign in',
               style: GoogleFonts.viga(
                 fontSize: 32.0,
                 color: Theme.of(context).primaryColor,
