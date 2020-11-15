@@ -1,8 +1,9 @@
 # Screenshots
 
-<img src="/screenshots/sign.png" width="600" height="700" />  
+![Sign in/ Sign up using google and firebase ](/screenshots/sign.png)  
 
-<img src="/screenshots/home.png" width="600" height="700" />  
+![home page ](/screenshots/home.png)  
+
 
 # Flutter Firebase Googel Sign In
 
