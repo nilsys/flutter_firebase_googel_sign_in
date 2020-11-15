@@ -1,8 +1,8 @@
 # Screenshots
 
-![Sign in/ Sign up using google and firebase ](/screenshots/sign.png)  
+![Sign in/ Sign up using google and firebase ](/screenshots/sign.png){:height="50%" width="50%"}    
 
-![home page ](/screenshots/home.png)  
+![home page ](/screenshots/home.png){:height="50%" width="50%"}  
 
 
 # Flutter Firebase Googel Sign In
